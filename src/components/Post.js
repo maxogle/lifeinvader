@@ -5,8 +5,8 @@ const Post = ({post}) => {
     return(
         <div>
         <img src={post.image} height="250" width="250"/>
-        <p>Posted by {post.username} ™ {likes} likes</p>
-        <button onClick={() => { setLikes(likes + 1)} }>fuck</button>
+        <p>Posted by {post.username} ♥︎ {likes} likes</p>
+        <button onClick={() => { setLikes(likes + 1)} }>like</button>
         <p>{post.content}</p>
     </div>
     )
