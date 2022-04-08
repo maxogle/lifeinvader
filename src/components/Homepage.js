@@ -1,6 +1,6 @@
 import Timeline from "./Timeline"
 import Sidebar from "./Sidebar"
-//https://raw.githubusercontent.com/rmdashrfv/lifeinvader/main/src/data/posts.json  michaels mock JSON
+//https://raw.githubusercontent.com/rmdashrfv/lifeinvader/main/src/data/posts.json michaels mock JSON
 
 
 
