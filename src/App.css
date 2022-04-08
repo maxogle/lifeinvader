@@ -62,3 +62,33 @@
   color: #d33;
   text-decoration: none;
 }
+
+.timeline {
+  margin-top: 5%;
+  background-color: #eee;
+}
+
+.post-feed {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%
+}
+
+.post{
+  max-width: 23%;
+  background-color: #fff;
+}
+
+.post-img {
+  height: auto;
+  width: 100%;
+  border-radius: 10px; 
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.post-content {
+  font-size: 1.3em;
+  line-height: 1.7em;
+  padding: 0 4%;
+
+}
